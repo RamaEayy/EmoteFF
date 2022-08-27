@@ -1,0 +1,83 @@
+_______________________
+Game Guardian Kode Dan Emote/Skin Free Fire
+909,000,001 = Halo
+909,000,002 = Lol
+909,000,003 = Revoke
+909,000,004 = Tepuk Tangan/Applause
+909,000,005 = Dab
+909,000,006 = Chicken/S7
+909,000,007 = Arm Wave
+909,000,008 = Shoot Dance/S8
+909,000,009 = -
+909,000,010 = -
+909,000,011 = -
+909,000,012 = Push Up
+909,000,013 = -
+909,000,014 = Kursi FFWC
+-----------
+909,000,045 = Love
+909,000,088 = Mobil
+909,000,074 = Motor
+909,000,089 = Gamehameha
+909,000,048 = Sad
+909,000,087 = Piala
+909,000,096 = Gitar
+909,000,083 = Maaf
+909,000,078 = Balon
+909,000,094 = Drone
+909,000,093 = Moco
+909,000,059 = Lets Go
+
+
+_______________________
+Kode Emote 2JT
+
+909,000,063 = AK47
+909,000,068 = SCAR-L
+909,000,075 = MP40
+909,000,081 = SG/M1014
+909,000,085 = XM8
+909,000,090 = FAMAS
+909,000,098 = UMP
+909,033,002 = MP5
+909,035,007 = SG2
+
+_______________________
+Skin/Set Free Fire
+#KEPALA
+211,000,059 = Rambut Tarzan
+211,000,016 = Topeng S1
+211,000,028 = Topi S2
+211,000,189 = Mahkota Raja
+
+#BAJU
+203,000,299 = Bundle Astronot
+203,000,182 = S2 Pink
+203,000,356 = S8 Robot
+203,000,219 = Blue RuokFF
+
+#CELANA
+204,000,103 = Angel Biru
+
+_______________________
+Skin/Collection Free Fire
+
+#Katana/Dll
+907,103,016 = - 
+907,103,017 = - 
+907,103,031 = Skin Tinju
+907,103,020 = Sabit Tengkorak
+
+#Senjata
+907,102,205 = MP40 New Style
+907,102,309 = SG Ungu
+907,193,007 = UMP 2JT
+907,102,916 = Uzi Es 
+
+#Tas
+904,000,058 = Tengkorak Hitam
+904,000,019 = Naga Hitam
+904,000,010 = Panda
+904,000,002 = S1
+904,000,031 = Sayap Old
+
