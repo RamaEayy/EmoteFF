@@ -8,8 +8,8 @@ Game Guardian Kode Dan Emote/Skin Free Fire
 909,000,006 = Chicken/S7
 909,000,007 = Arm Wave
 909,000,008 = Shoot Dance/S8
-909,000,009 = -
-909,000,010 = -
+909,000,009 = Baby Shark
+909,000,010 = Bunga Mawar
 909,000,011 = -
 909,000,012 = Push Up
 909,000,013 = -
@@ -26,8 +26,14 @@ Game Guardian Kode Dan Emote/Skin Free Fire
 909,000,078 = Balon
 909,000,094 = Drone
 909,000,093 = Moco
+909,000,092 = Fancy Steps
+909,000,077 = Stage Time
+909,000,034 = Pirate's Flag
+909,000,084 = The Walker
 909,000,059 = Lets Go
-
+-----------
+909,034,010 = Master Merah
+909,034,011 = Master Kuning
 
 _______________________
 Kode Emote 2JT
